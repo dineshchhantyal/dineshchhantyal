@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dineshchhantya" target="blank"><img src="https://img.shields.io/twitter/follow/dineshchhantya?logo=twitter&style=for-the-badge" alt="dineshchhantya" /></a> </p>
 
-- 🔭 I’m currently working on **Meissel-Lehmer Method for Prime Counting**
+- 🔭 I’m currently working on **<a href="https://github.com/dineshchhantyal/ClassCraft">ClassCraft: Unified Class Registration Platform</a>**, **Implementation of Meissel-Lehmer Method for Prime Counting** 
 
 - 🌱 I’m currently learning **Machine Learning**
 
