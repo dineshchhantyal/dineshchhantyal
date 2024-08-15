@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://dineshchhantyal.com.np/](https://dineshchhantyal.com.np/)
+- 👨‍💻 All of my projects are available at [https://dineshchhantyal.com/](https://dineshchhantyal.com/)
 
 - 📝 I regularly write articles on [https://dineshchhantyal.com.np/blogs](https://dineshchhantyal.com.np/blogs)
 
