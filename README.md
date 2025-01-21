@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://dineshchhantyal.com/](https://dineshchhantyal.com/)
 
-- 📝 I regularly write articles on [https://dineshchhantyal.com.np/blogs](https://dineshchhantyal.com.np/blogs)
+- 📝 I regularly write articles on [https://dineshchhantyal.com/blogs](https://dineshchhantyal.com/blogs)
 
 - 💬 Ask me about **typescript, next.js, react.js, tailwindcss**
 
 - 📫 How to reach me **myagdichhantyal@gmail.com**
 
-- 📄 Know about my experiences [https://dineshchhantyal.com.np/Dinesh_Chhantyal_resume.pdf](https://dineshchhantyal.com.np/Dinesh_Chhantyal_resume.pdf)
+- 📄 Know about my experiences [https://dineshchhantyal.com/Dinesh_Chhantyal_resume.pdf](https://dineshchhantyal.com/Dinesh_Chhantyal_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
